@@ -1,0 +1,7 @@
+C:\Users\fomen\source\repos\прога5\прога5\bin\Debug\прога5.exe.config
+C:\Users\fomen\source\repos\прога5\прога5\bin\Debug\прога5.exe
+C:\Users\fomen\source\repos\прога5\прога5\bin\Debug\прога5.pdb
+C:\Users\fomen\source\repos\прога5\прога5\obj\Debug\прога5.csproj.AssemblyReference.cache
+C:\Users\fomen\source\repos\прога5\прога5\obj\Debug\прога5.csproj.CoreCompileInputs.cache
+C:\Users\fomen\source\repos\прога5\прога5\obj\Debug\прога5.exe
+C:\Users\fomen\source\repos\прога5\прога5\obj\Debug\прога5.pdb
