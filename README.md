@@ -45,3 +45,18 @@ public class Eagle : Bird, IFlyable
         Console.WriteLine($"Орел, вік: {Age} років, висота польоту: {MaxFlightHeight} м");
     }
 }
+// Абстрактний клас для нелетючих птахів
+public abstract class FlightlessBird : Bird, IRunnable
+{
+    public double RunSpeed { get; set; }
+
+    public FlightlessBird(int age, double runSpeed) : base(age)
+    {
+        RunSpeed = runSpeed;
+    }
+
+    public void Run()
+    {
+        Console.WriteLine("Біжить зі швидкістю " + RunSpeed + " км/год");
+    }
+}
