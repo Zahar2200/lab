@@ -14,3 +14,15 @@ public abstract class Bird
     // Абстрактний метод для виведення інформації
     public abstract void DisplayInfo();
 }
+public interface IFlyable
+{
+    double MaxFlightHeight { get; set; }
+    void Fly();
+}
+
+// Інтерфейс для птахів, які можуть бігати
+public interface IRunnable
+{
+    double RunSpeed { get; set; }
+    void Run();
+}
